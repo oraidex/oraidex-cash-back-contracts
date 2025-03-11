@@ -47,7 +47,7 @@ schemars = "0.8.16"
 serde = { version = "1.0.197", default-features = false, features = ["derive"] }
 thiserror = { version = "1.0.58" }
 oraiswap = "1.0.1"
-protobuf = "=3.2.0"
+protobuf = "=3.7.2"
 
 [dev-dependencies]
 cw-multi-test = "1.0.0"
